@@ -6,6 +6,8 @@ twitter_username: heyitsmohit
 github_username: msya
 minimal_mistakes_skin: default
 search: false
+url: "http://msya.github.io"
+repository: "msya/msya.github.io"
 
 # Build settings
 markdown: kramdown
@@ -26,6 +28,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Mohit Sarveiya"
