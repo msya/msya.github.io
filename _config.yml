@@ -6,7 +6,7 @@ twitter_username: heyitsmohit
 github_username: msya
 minimal_mistakes_skin: default
 search: false
-url: "http://codingwithmohit.com"
+url: "https://codingwithmohit.com"
 repository: "msya/msya.github.io"
 
 # Build settings
@@ -76,3 +76,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
