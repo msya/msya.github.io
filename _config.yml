@@ -6,8 +6,7 @@ twitter_username: heyitsmohit
 github_username: msya
 minimal_mistakes_skin: default
 search: false
-url: "http://msya.github.io"
-repository: "msya/msya.github.io"
+url: "https://codingwithmohit.com"
 
 # Build settings
 markdown: kramdown
@@ -83,3 +82,4 @@ analytics:
     tracking_id          : "UA-164495560-1"
     anonymize_ip         : false
 
+exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
