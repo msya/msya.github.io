@@ -201,7 +201,7 @@ If you run this example, you will see that each execution of the select expressi
 
 Under the hood, the combine operator uses a select expression to listen to emissions from multiple Flows. Let’s look closely at the source to understand the implementation. Here is a diagram showing how it works.
 
-![flow-combine-7](/assets/flow-combine/flow-combine-7.png){: .align-center}
+![flow-combine-7](/assets/images/flow-combine/flow-combine-7.png){: .align-center}
 
 Suppose we want to combine Flow A and Flow B.
 
