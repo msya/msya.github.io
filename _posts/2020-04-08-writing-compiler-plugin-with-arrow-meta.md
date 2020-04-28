@@ -45,7 +45,7 @@ In this phase of the compilation process, the AST is given type information and 
 The AST is given to the backend of the compiler. With the introduction of intermediate representation, the back-end can now target different platforms. These platforms could be JS, JVM, native.
 All compilers have a very similar process. This is a very high-level overview of it. Arrow Meta allows you to hook into each step and provide your own custom implementation. The GIF below made by the Arrow team demonstrates this much better.
 
-![arrow-meta-kotlin-compiler-plugin-2](/assets/images/writing-kotlin-compiler-plugin-with-arrow-meta/arrow-meta-kotlin-compiler-plugin-2.png){: .align-center}
+![arrow-meta-kotlin-compiler-plugin-2](/assets/images/writing-kotlin-compiler-plugin-with-arrow-meta/arrow-meta-kotlin-compiler-plugin-2.gif){: .align-center}
 
 ## Use Case
 
