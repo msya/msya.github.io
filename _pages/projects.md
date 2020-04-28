@@ -13,7 +13,7 @@ You can see most of my OSS projects on [GitHub](https://github.com/msya), but he
 
 Kotlin Compiler Plugin written with Arrow Meta. [Check it out!](https://github.com/msya/debuglog-arrow-meta)
 
-### Mentions
+## Mentions
 
 Easily add @ mention functionality to your Android applications. [Check it out!](https://github.com/percolate/mentions)
 
