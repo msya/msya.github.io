@@ -14,7 +14,7 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-In this article, I will explore the use cases where a custom coroutine context element is useful. A Context is a set of elements that provides us with information about the coroutine. A Job, Dispatcher, and Exception Handler are examples of context elements provided by the coroutines library. But, sometimes you may want to create your own context element.
+A Context is a set of elements that provides us with information about the coroutine. A Job, Dispatcher, and Exception Handler are examples of context elements provided by the coroutines library. But, sometimes you may want to create your own context element. In this article, I will explore the use cases where a custom context is useful.
 
 ## What is a Context?
 
