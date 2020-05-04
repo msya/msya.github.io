@@ -1,5 +1,6 @@
 ---
 title: "Custom Kotlin Coroutine Context Uses Cases"
+excerpt: "Learn about use cases for creating a custom context element. I'll share use cases for dispatcher provider, thread local data and database transactions."
 date: 2020-05-02
 categories:
   - coroutines
