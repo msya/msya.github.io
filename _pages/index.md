@@ -10,18 +10,18 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro: 
 feature_row:
+  - image_path: /assets/images/custom-coroutine-context/dispatch-diagram.jpeg
+    alt: "Custom Kotlin Coroutine Context Uses Cases"
+    title: "Custom Kotlin Coroutine Context Uses Cases"
+    excerpt: "Learn about use cases for creating a custom context element. I'll share use cases for dispatcher provider, thread local data and database transactions."
+    url: /coroutines/custom-coroutine-context-uses-cases/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/writing-kotlin-compiler-plugin-with-arrow-meta/arrow-meta-kotlin-compiler-plugin-2.gif
     alt: "Writing a Kotlin Compiler Plugin with Arrow Meta"
     title: "Writing a Kotlin Compiler Plugin with Arrow Meta"
     excerpt: "Learn how to write & test a compiler plugin with Arrow Meta. I will share with you how to build an example plugin."
     url: /arrow-meta/writing-compiler-plugin-with-arrow-meta/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/kotlin-flow-assert/kotlin-flow-assert-arch.png
-    alt: "Kotlin Flow Assert Delight"
-    title: "Kotlin Flow Assert Delight"
-    excerpt: "Learn about how Flows are unit tested in SQL Delight. I will share with a use case and the inner workings of the technique used in SQL Delight."
-    url: /coroutines/kotlin-assert-flow-delight/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/flow-combine/flow-combine-7.png
