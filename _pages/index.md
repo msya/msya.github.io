@@ -32,6 +32,13 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
+    alt: "Unit testing Kotlin Channels & Flows"
+    title: "Unit testing Kotlin Channels & Flows"
+    excerpt: '**San Deigo Kotlin Meetup - June 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows. We'll also look at differenway to do Flow assertions."
+    url: "https://speakerdeck.com/heyitsmohit/unit-testing-channels-and-flows"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
     alt: "Unit testing Kotlin Channels & Flows in Practice"
     title: "Unit testing Kotlin Channels & Flows in Practice"
     excerpt: '**Andoird NYC Meetup - February 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows.'
