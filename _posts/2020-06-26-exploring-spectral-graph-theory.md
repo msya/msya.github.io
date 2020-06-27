@@ -1,6 +1,8 @@
 ---
 title: "Exploring Spectral Graph Theory"
 excerpt: "Learn about how we could use Linear Algebra to explore spectral properties of graphs."
+header:
+   teaser: "/assets/images/exploring-spectral-graph-theory/graph-example-3.png"
 date: 2020-06-26
 categories:
   - math
