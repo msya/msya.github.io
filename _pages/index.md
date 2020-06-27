@@ -30,6 +30,13 @@ feature_row:
     url: /coroutines/combinging-kotlin-flow-with-select-expressions/
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/exploring-spectral-graph-theory/graph-example-3.png
+    alt: "Exploring Spectral Graph Theory"
+    title: "Exploring Spectral Graph Theory"
+    excerpt: "Learn about how we could use Linear Algebra to explore spectral properties of graphs."
+    url: /math/exploring-spectral-graph-theory/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"   
 feature_row2:
   - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
     alt: "Unit testing Kotlin Channels & Flows"
