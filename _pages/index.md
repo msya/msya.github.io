@@ -38,6 +38,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"   
 feature_row2:
+  - image_path: /assets/images/talks/grpc-kotlin-coroutines.png
+    alt: "gRPC with Kotlin Coroutines"
+    title: "gRPC with Kotlin Coroutines"
+    excerpt: '**Kotlin London Meetup - August 2020**<br /><br />Learn about how to build a server and client using gRPC with Kotlin coroutines.'
+    url: "https://speakerdeck.com/heyitsmohit/grpc-with-kotlin-coroutines"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
     alt: "Unit testing Kotlin Channels & Flows"
     title: "Unit testing Kotlin Channels & Flows"
