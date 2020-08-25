@@ -13,7 +13,7 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-In this blog post, We will explore how to use gRPC with Kotlin coroutines on both the server and client (Android) using the [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin) library.
+In this blog post, we will explore how to use gRPC with Kotlin coroutines on both the server and client (Android) using the [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin) library.
 
 ## What is gRPC?
 
