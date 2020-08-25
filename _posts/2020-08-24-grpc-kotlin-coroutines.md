@@ -1,6 +1,6 @@
 ---
 title: "gRPC with Kotlin Coroutines"
-date: 2020-08-10
+date: 2020-08-24
 categories:
   - grpc
 tags:
