@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro: 
 feature_row:
+  - image_path: /assets/images/grpc-kotlin-coroutines/grpc-kotlin-coroutines-1.png
+    alt: "gRPC with Kotlin Coroutines"
+    title: "gRPC with Kotlin Coroutines"
+    excerpt: "Learn about how to build a server and an Android Client using the gRPC-Kotlin library with coroutines."
+    url: /grpc/grpc-kotlin-coroutines/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/custom-coroutine-context/dispatch-diagram.jpeg
     alt: "Custom Kotlin Coroutine Context Uses Cases"
     title: "Custom Kotlin Coroutine Context Uses Cases"
