@@ -599,9 +599,11 @@ class MyViewModel(val clientStub: VenueServiceCoroutineKt): ViewModel() {
 
 When the `listPlaces` server streaming method is called, it will make the RPC call and the responses will be given in the [collect](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/collect.html) method.
 
-We have created a server and consumed it in an Android client. I hope this article was useful in using gRPC with Kotlin coroutines.
+We have created a server and consumed it in an Android client. I hope this article was useful in using gRPC with Kotlin coroutines. Please check out my talk on gRPC with Kotlin coroutines at the [Kotlin London Meetup](https://youtu.be/V3BzDyQVeGw?t=255).
 
 ## Resources
+
+* [gRPC-Kotlin Talk @ Kotlin London Meetup](https://youtu.be/V3BzDyQVeGw?t=255)
 
 * [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin)
 
