@@ -1,6 +1,8 @@
 ---
 title: "gRPC with Kotlin Coroutines"
 date: 2020-08-24
+header:
+   teaser: "/assets/images/grpc-kotlin-coroutines/grpc-kotlin-coroutines-1.png"
 categories:
   - grpc
 tags:
