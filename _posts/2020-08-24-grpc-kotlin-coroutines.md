@@ -27,7 +27,7 @@ gRPC has support for clients and servers that are built using different programm
 
 ![client-server-user-case](/assets/images/grpc-kotlin-coroutines/grpc-kotlin-coroutines-2.png){: .align-left}
 
-Assume we are building an Android app that allows users to explore locations on map as they traverse from one location to another. The user may be able to check-in to a place or chat with other's at the location. The user could also explore new venues such as restaurants and retail stores nearby. How could we build a server and client for this hypothetical use case?
+Assume we are building an Android app that allows users to explore locations on map as they traverse from one location to another. The user may be able to check-in to a place or chat with others at the location. The user could also explore new venues such as restaurants and retail stores nearby. How could we build a server and client for this hypothetical use case?
 
 <br/>
 ## Building gRPC Server
@@ -36,7 +36,7 @@ There are many open source libraries that could be used to build a gRPC server a
 
 ### RPC Calls
 
-The first step is to define the RPC calls a client could make. We'll use protocol buffers to define the request and response. The RPC calls are defined in a file with an extension `.proto`. All RPC calls are defined in a service. The snippet below defines `VenueService` using the [`service`](https://developers.google.com/protocol-buffers/docs/proto#services) keyword. The proto file also specifies the version of protocol buffer to use. I have specified to use [protocol buffer version 3[(https://developers.google.com/protocol-buffers/docs/proto3). 
+The first step is to define the RPC calls a client could make. We'll use protocol buffers to define the request and response. The RPC calls are defined in a file with an extension `.proto`. All RPC calls are defined in a service. The snippet below defines `VenueService` using the [`service`](https://developers.google.com/protocol-buffers/docs/proto#services) keyword. The proto file also specifies the version of protocol buffer to use. I have specified to use [protocol buffer version 3](https://developers.google.com/protocol-buffers/docs/proto3).
 
 ```proto
 syntax = "proto3"
