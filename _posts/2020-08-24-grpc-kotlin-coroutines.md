@@ -1,5 +1,6 @@
 ---
 title: "gRPC with Kotlin Coroutines"
+excerpt: "In this blog post, we will explore how to use gRPC with Kotlin coroutines on both the server and client (Android) using the gRPC-Kotlin library."
 date: 2020-08-24
 categories:
   - grpc
@@ -12,6 +13,9 @@ toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
 ---
+
+_Featured in [Kotlin Weekly #213](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=2ed61dc1a3
+)_
 
 In this blog post, we will explore how to use gRPC with Kotlin coroutines on both the server and client (Android) using the [gRPC-Kotlin](https://github.com/grpc/grpc-kotlin) library.
 
