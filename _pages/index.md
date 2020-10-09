@@ -8,8 +8,51 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/talks/droidcon-2018.jpg
 excerpt: "Kotlin Advocate & Android Developer"
-intro: 
+intro:
 feature_row:
+  - image_path: /assets/images/talks/unit_testing_channels_and_flow_android_summit.png
+    alt: "Unit Testing Kotlin Channels & Flows"
+    title: "Unit Testing Kotlin Channels & Flows"
+    excerpt: '**Android Summit - October 2020**<br /><br />Learn about how to write unit tests for channels and flows'
+    url: "https://speakerdeck.com/heyitsmohit/unit-testing-kotlin-channels-and-flows-android-summit"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/writing_kotlin_compiler_plugins_with_arrow_meta.jpg
+    alt: "Writing Kotlin Compiler Plugins with Arrow Meta"
+    title: "Writing Kotlin Compiler Plugins with Arrow Meta"
+    excerpt: '**Droidcon EMEA - October 2020**<br /><br />Learn about how to write Compiler Plugins with Arrow Meta'
+    url: "https://speakerdeck.com/heyitsmohit/writing-kotlin-compiler-plugins-with-arrow-meta"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/grpc_with_kotlin_coroutines.png
+    alt: "gRPC with Kotlin Coroutines"
+    title: "gRPC with Kotlin Coroutines"
+    excerpt: '**Kotlin London Meetup - August 2020**<br /><br />Learn about how to build a server and client using gRPC with Kotlin coroutines.'
+    url: "https://youtu.be/V3BzDyQVeGw?t=256"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/unit_testing_channels_and_flow_san_deigo.png
+    alt: "Unit testing Kotlin Channels & Flows"
+    title: "Unit testing Kotlin Channels & Flows"
+    excerpt: '**San Deigo Kotlin Meetup - June 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows.'
+    url: "https://www.youtube.com/watch?v=h8bLIUi6HWU"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
+    alt: "Unit testing Kotlin Channels & Flows in Practice"
+    title: "Unit testing Kotlin Channels & Flows in Practice"
+    excerpt: '**Andoird NYC Meetup - February 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows.'
+    url: "https://speakerdeck.com/heyitsmohit/unit-testing-kotlin-channels-and-flows"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/channels-flows-talk-brooklyn-meetup.jpeg
+    alt: "Kotlin Channels & Flows in Practice"
+    title: "Kotlin Channels & Flows in Practice"
+    excerpt: '**Brooklyn Kotlin Meetup - January 2020**<br /><br />Learn about how Channels and Flows work. We will look at how Flow could be used for polling'
+    url: "https://speakerdeck.com/heyitsmohit/channels-and-flows-in-practice"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/grpc-kotlin-coroutines/grpc-kotlin-coroutines-1.png
     alt: "gRPC with Kotlin Coroutines"
     title: "gRPC with Kotlin Coroutines"
@@ -43,53 +86,17 @@ feature_row:
     excerpt: "Learn about how we could use Linear Algebra to explore spectral properties of graphs."
     url: /math/exploring-spectral-graph-theory/
     btn_label: "Learn More"
-    btn_class: "btn--primary"   
-feature_row2:
-  - image_path: /assets/images/talks/writing_kotlin_compiler_plugins_with_arrow_meta.jpg
-    alt: "Writing Kotlin Compiler Plugins with Arrow Meta"
-    title: "Writing Kotlin Compiler Plugins with Arrow Meta"
-    excerpt: '**Writing Kotlin Compiler Plugins with Arrow Meta - October 2020**<br /><br />Learn about how to write Compiler Plugins with Arrow Meta'
-    url: "https://speakerdeck.com/heyitsmohit/writing-kotlin-compiler-plugins-with-arrow-meta"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/grpc_with_kotlin_coroutines.png
-    alt: "gRPC with Kotlin Coroutines"
-    title: "gRPC with Kotlin Coroutines"
-    excerpt: '**Kotlin London Meetup - August 2020**<br /><br />Learn about how to build a server and client using gRPC with Kotlin coroutines.'
-    url: "https://youtu.be/V3BzDyQVeGw?t=256"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/unit_testing_channels_and_flow_san_deigo.png
-    alt: "Unit testing Kotlin Channels & Flows"
-    title: "Unit testing Kotlin Channels & Flows"
-    excerpt: '**San Deigo Kotlin Meetup - June 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows.'
-    url: "https://www.youtube.com/watch?v=h8bLIUi6HWU"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
-    alt: "Unit testing Kotlin Channels & Flows in Practice"
-    title: "Unit testing Kotlin Channels & Flows in Practice"
-    excerpt: '**Andoird NYC Meetup - February 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows.'
-    url: "https://speakerdeck.com/heyitsmohit/unit-testing-kotlin-channels-and-flows"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/channels-flows-talk-brooklyn-meetup.jpeg
-    alt: "Kotlin Channels & Flows in Practice"
-    title: "Kotlin Channels & Flows in Practice"
-    excerpt: '**Brooklyn Kotlin Meetup - January 2020**<br /><br />Learn about how Channels and Flows work. We will look at how Flow could be used for polling'
-    url: "https://speakerdeck.com/heyitsmohit/channels-and-flows-in-practice"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary"  
 ---
 
-## Recent Posts
+## Recent Talks
 {: .text-left}
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-## Recent Talks
+## Recent Posts
 {: .text-left}
 
 {% include feature_row id="feature_row2" %}
