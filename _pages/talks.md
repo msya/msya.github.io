@@ -39,6 +39,13 @@ Android isn’t new anymore. Most applications are not greenfield projects. Many
 
 In the spirit of Michael Feathers' classic book, this talk explores ways we can navigate, maintain, improve and evolve Android legacy code. We will cover topics like architecture, refactoring, testing, and dependency breaking techniques using examples from the speakers’ combined 16+ years of experience working on Android. 
 
+### DroidCon EMEA 2020 - Writing Kotlin Compiler Plugins with Arrow Meta 
+
+<script async class="speakerdeck-embed" data-id="d79c32b49ac840138d365f3d263eeb00" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<br/>
+
+We’ll learn about how to write and test compiler plugins with Arrow Meta. This library provides an API for source transformations, automatic code refactoring, and much more. We’ll look at main use cases from type classes, comprehensions, and lenses that are made possible with Arrow Meta. We’ll also look at how to test each use case.
+
 ## Meetups
 
 ### Kotlin NYC Meetup 

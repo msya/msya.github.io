@@ -45,14 +45,21 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"   
 feature_row2:
-  - image_path: /assets/images/talks/grpc-kotlin-coroutines.png
+  - image_path: /assets/images/talks/writing_kotlin_compiler_plugins_with_arrow_meta.jpg
+    alt: "Writing Kotlin Compiler Plugins with Arrow Meta"
+    title: "Writing Kotlin Compiler Plugins with Arrow Meta"
+    excerpt: '**Writing Kotlin Compiler Plugins with Arrow Meta - October 2020**<br /><br />Learn about how to write Compiler Plugins with Arrow Meta'
+    url: "https://speakerdeck.com/heyitsmohit/writing-kotlin-compiler-plugins-with-arrow-meta"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/grpc_with_kotlin_coroutines.png
     alt: "gRPC with Kotlin Coroutines"
     title: "gRPC with Kotlin Coroutines"
     excerpt: '**Kotlin London Meetup - August 2020**<br /><br />Learn about how to build a server and client using gRPC with Kotlin coroutines.'
     url: "https://youtu.be/V3BzDyQVeGw?t=256"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/talks/unit-testing-channels-and-flows.png
+  - image_path: /assets/images/talks/unit_testing_channels_and_flow_san_deigo.png
     alt: "Unit testing Kotlin Channels & Flows"
     title: "Unit testing Kotlin Channels & Flows"
     excerpt: '**San Deigo Kotlin Meetup - June 2020**<br /><br />Learn about how to unit tests errors, retries and requests with Channels & Flows.'
