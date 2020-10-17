@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/devfest_uk.jpg
+    alt: "Unit Testing Kotlin Channels & Flows"
+    title: "Unit Testing Kotlin Channels & Flows"
+    excerpt: '**Devfest UK & Ireland - October 2020**<br /><br />Learn about how to write unit tests for channels and flows'
+    url: "https://youtu.be/803jB3RLi_s"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/unit_testing_channels_and_flow_android_summit.png
     alt: "Unit Testing Kotlin Channels & Flows"
     title: "Unit Testing Kotlin Channels & Flows"
@@ -86,7 +93,7 @@ feature_row2:
     excerpt: "Learn about how we could use Linear Algebra to explore spectral properties of graphs."
     url: /math/exploring-spectral-graph-theory/
     btn_label: "Learn More"
-    btn_class: "btn--primary"  
+    btn_class: "btn--primary" 
 ---
 
 ## Recent Talks

@@ -16,23 +16,23 @@ toc_icon: "chalkboard-teacher"
 
 ### DroidCon NYC 2018
 
-#### Static Code Analysis with Kotlin
-
 <br/>
 {% include video id="LT6m5_LO2DQ" provider="youtube" %}
 <br/>
+
+__Static Code Analysis with Kotlin__
+
 Detekt is a static code analysis tool for Kotlin. It can analyze your Kotlin projects for various types of code smells. The tool contains rules for style, performance and potential bugs. The tool is fully configurable so that you may turn off and set thresholds for these rules. It is also extensible so that you could create your own custom rules from your style guide. This tool goes a long way to enforcing good practices in your code base.
 
 Under the hood, the library performs checks against these rules by analyzing the abstract syntax tree provided by the Kotlin Compiler. In this talk, we will learn about how to setup Detekt and how to create custom rules. We will also take a deep dive into how the library enforces these rules by using the abstract syntax tree.
 
 ### DroidCon SF 2018
 
-#### Working Effectively with (Android) Legacy Code
-
 <br/>
 {% include video id="xsoQpcvGZgI" provider="youtube" %}
 <br/>
-Working Effectively with (Android) Legacy Code
+
+__Working Effectively with (Android) Legacy Code__
 
 * How are we going to add this new feature when the code is a mess?
 * We can’t change this file-- it’s too risky!
@@ -50,7 +50,7 @@ In the spirit of Michael Feathers' classic book, this talk explores ways we can 
 <script async class="speakerdeck-embed" data-id="d79c32b49ac840138d365f3d263eeb00" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
 
-#### Writing Kotlin Compiler Plugins with Arrow Meta 
+__Writing Kotlin Compiler Plugins with Arrow Meta__
 
 We’ll learn about how to write and test compiler plugins with Arrow Meta. This library provides an API for source transformations, automatic code refactoring, and much more. We’ll look at main use cases from type classes, comprehensions, and lenses that are made possible with Arrow Meta. We’ll also look at how to test each use case.
 
@@ -59,9 +59,19 @@ We’ll learn about how to write and test compiler plugins with Arrow Meta. This
 <script async class="speakerdeck-embed" data-id="39478411379b450387c26e10e80eacce" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
 
-#### Unit Testing Kotlin Channels & Flows
+__Unit Testing Kotlin Channels & Flows__
 
 We’ll learn about how to write and test compiler plugins with Arrow Meta. This library provides an API for source transformations, automatic code refactoring, and much more. We’ll look at main use cases from type classes, comprehensions, and lenses that are made possible with Arrow Meta. We’ll also look at how to test each use case.
+
+### Devfest UK & Ireland 2020
+
+<br/>
+{% include video id="803jB3RLi_s" provider="youtube" %}
+<br/>
+
+__Unit Testing Kotlin Channels & Flows__
+
+Unit testing Channels and Flows can be a challenge as they are fairly new. In this talk, I will share with you how to implement and test practical examples from my experience. These examples are testing delays, retries, and errors. I'll also share testing more complex examples such as polling. For each use case, we'll look at how to use features in the coroutines library such as runBlockingTest and TestCoroutineDispatcher. From my journey of using and testing Flows in production, I'll share the challenges I experienced.
 
 ## Meetups
 
