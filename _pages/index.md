@@ -14,7 +14,7 @@ feature_row:
     alt: "Unit Testing Kotlin Channels & Flows"
     title: "Unit Testing Kotlin Channels & Flows"
     excerpt: '**Devfest UK & Ireland - October 2020**<br /><br />Learn about how to write unit tests for channels and flows'
-    url: "https://youtu.be/803jB3RLi_s"
+    url: "https://youtu.be/803jB3RLi_s?t=17277"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/unit_testing_channels_and_flow_android_summit.png
