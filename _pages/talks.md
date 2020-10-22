@@ -47,7 +47,8 @@ In the spirit of Michael Feathers' classic book, this talk explores ways we can 
 
 ### DroidCon EMEA 2020
 
-<script async class="speakerdeck-embed" data-id="d79c32b49ac840138d365f3d263eeb00" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/470216591" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 <br/>
 
 __Writing Kotlin Compiler Plugins with Arrow Meta__

@@ -28,7 +28,7 @@ feature_row:
     alt: "Writing Kotlin Compiler Plugins with Arrow Meta"
     title: "Writing Kotlin Compiler Plugins with Arrow Meta"
     excerpt: '**Droidcon EMEA - October 2020**<br /><br />Learn about how to write Compiler Plugins with Arrow Meta'
-    url: "https://speakerdeck.com/heyitsmohit/writing-kotlin-compiler-plugins-with-arrow-meta"
+    url: "https://www.droidcon.com/media-detail?video=470216591"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/grpc_with_kotlin_coroutines.png
