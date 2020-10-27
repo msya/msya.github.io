@@ -14,7 +14,7 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-What is the testing pattern used inside the Kotlin Coroutine library? It's a multiplatform library that uses a pattern which tests functionality for JS, JVM and native. In this article, we will explore how testing is performed and explore examples of unit tests in the library.
+What is the testing pattern used inside the Kotlin Coroutine library? It's a multiplatform library that uses a pattern which tests functionality for JS, JVM and native. In this article, we will explore how testing is performed and explore examples of unit tests in the library itself.
 
 Let’s start by looking at a very simple unit test in the library. 
 
@@ -377,7 +377,7 @@ But, the logic for handling exceptions, keeping track of the order of execution 
 
 ## Summary
 
-We looked at testing work internally in the coroutine library itself. As it is a multiplatform library, it has a framework for testing coroutines for JVM, JS and native. We looked at the following utilities it has for testing. 
+We looked at testing work internally in the coroutine library itself. As it is a multiplatform library, it has a framework for testing coroutines for JVM, JS and native. Although run blocking test is provided for testing, the pattern inside the library is different. We looked at the following utilities it has for testing. 
 
 - Specifies a base test utility in the common module. 
 - Actual implementations for Javascript, JVM and native are given in separate platform modules.
