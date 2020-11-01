@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-I was an early adopter of Kotlin. I started using the language 8 years ago. I have helped integrate it at three different companies so far with small to large teams with different challenges. I've also helped companies to adopt Coroutines. In this journey, I'm also an author of a book on Coroutines. I have shared my learnings and obstacles through conference and meetup talks and blog posts.
+I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-mohit_sarveiya) in Kotlin. I was an early adopter of Kotlin. I have helped to integrate it at  different companies with varying team sizes with different challenges. I've also helped companies to adopt Coroutines. In this journey, I have shared my learnings and obstacles through talks and blog posts.

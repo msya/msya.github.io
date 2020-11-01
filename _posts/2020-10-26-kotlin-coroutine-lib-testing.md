@@ -14,6 +14,8 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
+_Featured in [Kotlin Weekly #222](http://www.kotlinweekly.net/)_
+
 What is the testing pattern used inside the Kotlin Coroutine library? It's a multiplatform library that uses a pattern which tests functionality for JS, JVM and native. In this article, we will explore how testing is performed and explore examples of unit tests in the library itself.
 
 Let’s start by looking at a very simple unit test in the library. 

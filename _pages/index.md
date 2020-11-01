@@ -60,6 +60,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/multiplatform-testing-inside-coroutine-lib/test-base-diagram.png
+    alt: "Multiplatform Test Pattern inside Coroutines Lib"
+    title: "Multiplatform Test Pattern inside Coroutines Lib"
+    excerpt: "Learn about how unit testing is setup and performed inside the Kotlin coroutines library."
+    url: /coroutines/kotlin-coroutine-lib-testing/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/grpc-kotlin-coroutines/grpc-kotlin-coroutines-1.png
     alt: "gRPC with Kotlin Coroutines"
     title: "gRPC with Kotlin Coroutines"
