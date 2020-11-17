@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/droidcon_americas.jpg
+    alt: "Unit Testing Kotlin Channels & Flows"
+    title: "Unit Testing Kotlin Channels & Flows"
+    excerpt: '**Devfest UK & Ireland - November 2020**<br /><br />Learn about how to write unit tests for channels and flows'
+    url: "https://speakerdeck.com/heyitsmohit/unit-testing-channels-and-flows-droidcon-americas"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/devfest_uk.jpg
     alt: "Unit Testing Kotlin Channels & Flows"
     title: "Unit Testing Kotlin Channels & Flows"
