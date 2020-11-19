@@ -68,7 +68,7 @@ We’ll learn about how to write and test compiler plugins with Arrow Meta. This
 ### Android Summit 2020
 
 <br/>
-<script async class="speakerdeck-embed" data-id="39478411379b450387c26e10e80eacce" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{% include video id="uEnpIFVspMo" provider="youtube" %}
 <br/>
 
 __Unit Testing Kotlin Channels & Flows__

@@ -28,7 +28,7 @@ feature_row:
     alt: "Unit Testing Kotlin Channels & Flows"
     title: "Unit Testing Kotlin Channels & Flows"
     excerpt: '**Android Summit - October 2020**<br /><br />Learn about how to write unit tests for channels and flows'
-    url: "https://speakerdeck.com/heyitsmohit/unit-testing-kotlin-channels-and-flows-android-summit"
+    url: "https://youtu.be/uEnpIFVspMo"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/writing_kotlin_compiler_plugins_with_arrow_meta.jpg
