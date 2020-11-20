@@ -10,11 +10,18 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/kotlin_munich.png
+    alt: "Writing Kotlin Compiler Plugins with Arrow Meta"
+    title: "Writing Kotlin Compiler Plugins with Arrow Meta"
+    excerpt: '**Kotlin Munich - November 2020**<br /><br />Learn how to write Kotlin compiler plugins'
+    url: "https://youtu.be/WQ9SVCxvfjE?t=5652"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/droidcon_americas.jpg
     alt: "Unit Testing Kotlin Channels & Flows"
     title: "Unit Testing Kotlin Channels & Flows"
     excerpt: '**Droidcon Americas - November 2020**<br /><br />Learn about how to write unit tests for channels and flows'
-    url: "https://speakerdeck.com/heyitsmohit/unit-testing-channels-and-flows-droidcon-americas"
+    url: "https://www.droidcon.com/media-detail?video=481196790"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/devfest_uk.jpg
