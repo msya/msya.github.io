@@ -52,7 +52,7 @@ footer:
 
 # Collections
 collections:
-  Conferences:
+  conferences:
     output: true
     permalink: /:collection/:path/
   Meetups:
@@ -80,7 +80,7 @@ defaults:
   # _conferences
   - scope:
       path: "_conferences"
-      type: Conferences
+      type: conferences
     values:
       layout: single
       author_profile: true    

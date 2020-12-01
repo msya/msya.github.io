@@ -2,6 +2,6 @@
 title: Conference Talks
 layout: collection
 permalink: /conferences/
-collection: Conferences
+collection: conferences
 classes: wide
 ---
