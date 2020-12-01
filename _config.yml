@@ -55,7 +55,7 @@ collections:
   conferences:
     output: true
     permalink: /:collection/:path/
-  Meetups:
+  meetups:
     output: true
     permalink: /:collection/:path/      
 
@@ -77,13 +77,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _conferences
-  - scope:
-      path: "_conferences"
-      type: conferences
-    values:
-      layout: single
-      author_profile: true    
 
 category_archive:
   type: liquid
