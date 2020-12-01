@@ -77,6 +77,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _conferences
+  - scope:
+      path: "_conferences"
+      type: Conferences
+    values:
+      layout: single
+      author_profile: true    
 
 category_archive:
   type: liquid
