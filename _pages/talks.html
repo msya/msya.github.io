@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+classes: wide
+---
+
+All the talks I've given over the years at conferences and meetups.
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      <h1 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h1>
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}

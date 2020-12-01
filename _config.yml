@@ -50,6 +50,15 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/msya"
 
+# Collections
+collections:
+  Conferences:
+    output: true
+    permalink: /:collection/:path/
+  Meetups:
+    output: true
+    permalink: /:collection/:path/      
+
 defaults:
   # _posts
   - scope:
