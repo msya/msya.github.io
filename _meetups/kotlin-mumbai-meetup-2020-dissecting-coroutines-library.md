@@ -12,4 +12,8 @@ In this talk, we will explore basic to advanced features provided by the corouti
 
 <br/>
 
+{% include video id="zhh0NGKAwQU" provider="youtube" %}
+
+<br/>
+
 <script async class="speakerdeck-embed" data-id="47eaaadb15d34c7cbec26f88dffb5b23" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

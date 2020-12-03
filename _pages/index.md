@@ -14,7 +14,7 @@ feature_row:
     alt: "Dissecting Coroutines Library"
     title: "Dissecting Coroutines Library"
     excerpt: '**Kotlin Mumbai - December 2020**<br /><br />Learn about advanced and lesser known features in the coroutines library.'
-    url: "https://speakerdeck.com/heyitsmohit/dissecting-coroutines-library"
+    url: "https://www.youtube.com/watch?v=zhh0NGKAwQU"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/droidcon_americas.jpg
