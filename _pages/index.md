@@ -39,6 +39,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/apollo-android-graphql-flow-bindings/apollo-android-graphql-flow-bindings.png
+    alt: "Apollo Android GraphQL Flow Bindings"
+    title: "Apollo Android GraphQL Flow Bindings"
+    excerpt: "Learn about how the Apollo Android library provides you the ability to use Flows."
+    url: /coroutines/graphql/apollo-graphql-flow-bindings/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/multiplatform-testing-inside-coroutine-lib/test-base-diagram.png
     alt: "Multiplatform Test Pattern inside Coroutines Lib"
     title: "Multiplatform Test Pattern inside Coroutines Lib"
