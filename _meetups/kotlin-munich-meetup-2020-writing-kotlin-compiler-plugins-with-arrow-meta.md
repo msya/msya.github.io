@@ -6,6 +6,8 @@ classes: wide
 author_profile: true
 ---
 
+Featured in [Kotlin Weekly #225](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=041cc8e078)
+
 We’ll learn about how to write and test compiler plugins with Arrow Meta. This library provides an API for source transformations, automatic code refactoring, and much more. We’ll look at main use cases from type classes, comprehensions, and lenses that are made possible with Arrow Meta. We’ll also look at how to test each use case.
 
 <br/>
