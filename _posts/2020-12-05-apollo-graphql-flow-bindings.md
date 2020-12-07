@@ -1,5 +1,5 @@
 ---
-title: "Apollo Andorid GraphQL Flow Bindings"
+title: "Apollo Android GraphQL Flow Bindings"
 excerpt: "In this blog post, we'll explore how the Apollo-Android library gives you the ability to use Flows when making queries. The library provides a coroutines integration module. How does the module bridge to Flows? Let's explore in this article."
 date: 2020-12-05
 header:
