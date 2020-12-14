@@ -17,6 +17,8 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
+Featured in [Android Weekly #444](https://androidweekly.net/issues/issue-444) & [Kotlin Weekly #228](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=fc5413f3eb)
+
 In this blog post, we'll explore how the [Apollo-Android](https://github.com/apollographql/apollo-android) library gives you the ability to use Flows when making queries. The library provides a [coroutines integration](https://github.com/apollographql/apollo-android/tree/main/apollo-coroutines-support) module. How does the module bridge to Flows? Let's explore in this article. 
 
 ## GraphQL Query with Callbacks
