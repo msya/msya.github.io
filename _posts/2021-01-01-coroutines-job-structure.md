@@ -57,13 +57,13 @@ class MyRepository2(
 }
 ```
 
-In the example above, the [view model]("https://developer.android.com/topic/libraries/architecture/viewmodel") launches a coroutine on the [view model scope]("https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope"). It does so using a [launch]("https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/launch.html") block. It also communicates with two repositories. The first repository creates a scope internally and launches a coroutine on it. The second repository has a [lifecycle scope]("https://developer.android.com/reference/kotlin/androidx/lifecycle/package-summary#(androidx.lifecycle.LifecycleOwner).lifecycleScope:androidx.lifecycle.LifecycleCoroutineScope") injected and launches a coroutine on it.
+In the example above, the [view model](https://developer.android.com/topic/libraries/architecture/viewmodel) launches a coroutine on the [view model scope](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope). It does so using a [launch](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/launch.html) block. It also communicates with two repositories. The first repository creates a scope internally and launches a coroutine on it. The second repository has a [lifecycle scope](https://developer.android.com/reference/kotlin/androidx/lifecycle/package-summary#(androidx.lifecycle.LifecycleOwner).lifecycleScope:androidx.lifecycle.LifecycleCoroutineScope") injected and launches a coroutine on it.
 
 We are building coroutines that have a relationship with one another. Some of them are outliers that standalone. These approaches affect how the library cancels the workers during clean-up or when an exception occurs inside the coroutines. 
 
 ## Coroutine Hierarchy
 
-Assume we have a scope on an [IO dispatcher]("https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-dispatchers/-i-o.html"). We launch three coroutines on the coroutine scope. 
+Assume we have a scope on an [IO dispatcher](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-dispatchers/-i-o.html). We launch three coroutines on the coroutine scope. 
 
 ```kotlin
 val scope = CoroutineScope(Dispatchers.IO)
@@ -274,7 +274,7 @@ In this example, I launch a coroutine on `scope2` inside another coroutine. This
 
 ## Supervisor Job
 
-We saw examples above where an error in a coroutine caused its siblings to cancel. A [Supervisor Job]("https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html") allows you to keep a parent Job running if one of the child Jobs throws an exception. 
+We saw examples above where an error in a coroutine caused its siblings to cancel. A [Supervisor Job](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html) allows you to keep a parent Job running if one of the child Jobs throws an exception. 
 
 ```kotlin
 val supervisorJob = SupervisorJob()
@@ -403,7 +403,7 @@ I hope this article was helpful in understanding the implications of how you cre
 
 ## Resources
 
-- [Exception Handling and Supervision]("https://kotlinlang.org/docs/reference/coroutines/exception-handling.html")
-- [Supervisor Scope]("https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/supervisor-scope.html")
-- [Supervisor Job]("https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html")
-- [View Model Scope]("https://developer.android.com/topic/libraries/architecture/viewmodel")
+- [Exception Handling and Supervision](https://kotlinlang.org/docs/reference/coroutines/exception-handling.html)
+- [Supervisor Scope](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/supervisor-scope.html)
+- [Supervisor Job](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html)
+- [View Model Scope](https://developer.android.com/topic/libraries/architecture/viewmodel)
