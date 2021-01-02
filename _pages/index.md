@@ -39,6 +39,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/coroutines-job-structures/coroutines-job-sructures-image-0.png
+    alt: "Coroutines Job Structures"
+    title: "Coroutines Job Structures"
+    excerpt: "This article will explore examples of creating Job hierarchies, their effect on cancellation, and Supervisor Jobs."
+    url: /coroutines/coroutines-job-structure/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/apollo-android-graphql-flow-bindings/apollo-android-graphql-flow-bindings.png
     alt: "Apollo Android GraphQL Flow Bindings"
     title: "Apollo Android GraphQL Flow Bindings"
