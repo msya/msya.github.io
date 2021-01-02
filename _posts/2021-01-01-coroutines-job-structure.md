@@ -3,7 +3,7 @@ title: "Coroutines Job Structures"
 excerpt: "This article will explore examples of creating Job hierarchies, their effect on cancellation, and Supervisor Jobs."
 date: 2020-01-01
 header:
-   teaser: ""
+   teaser: "/assets/images/coroutines-job-structures/coroutines-job-sructures-image-0.png"
 categories:
   - coroutines
 tags:
