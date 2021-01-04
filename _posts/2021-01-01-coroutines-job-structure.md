@@ -16,6 +16,8 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
+Featured in [Android Weekly #447](https://androidweekly.net/issues/issue-447) & [Kotlin Weekly #231](https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=7ecd572cb4)
+
 As you use coroutines in different use cases, understanding the relationship among the Jobs you're creating is essential. The relationship determines how the library will cancel your coroutine Jobs. This article will explore examples of creating Job hierarchies, their effect on cancellation, and Supervisor Jobs. 
 
 ## Problem
