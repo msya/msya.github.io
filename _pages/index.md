@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/android-worldwide-grpc-with-kotlin-coroutines.jpg
+    alt: "gRPC with Kotlin Coroutines on Android"
+    title: "gRPC with Kotlin Coroutines on Android"
+    excerpt: '**Android Worldwide - January 2021**<br /><br />Learn aobut how to use gRPC with Kotlin coroutines on Android.'
+    url: "/conferences/android-worldwide-2020-grpc-with-kotlin-coroutines/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/kotlin_mumbai-dissecting-coroutines-library.jpeg
     alt: "Dissecting Coroutines Library"
     title: "Dissecting Coroutines Library"
@@ -22,20 +29,6 @@ feature_row:
     title: "Unit Testing Kotlin Channels & Flows"
     excerpt: '**Droidcon Americas - November 2020**<br /><br />Learn about how to write unit tests for channels and flows'
     url: "https://www.droidcon.com/media-detail?video=481196790"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/writing_kotlin_compiler_plugins_with_arrow_meta.jpg
-    alt: "Writing Kotlin Compiler Plugins with Arrow Meta"
-    title: "Writing Kotlin Compiler Plugins with Arrow Meta"
-    excerpt: '**Droidcon EMEA - October 2020**<br /><br />Learn about how to write Compiler Plugins with Arrow Meta'
-    url: "https://www.droidcon.com/media-detail?video=470216591"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/grpc_with_kotlin_coroutines.png
-    alt: "gRPC with Kotlin Coroutines"
-    title: "gRPC with Kotlin Coroutines"
-    excerpt: '**Kotlin London Meetup - August 2020**<br /><br />Learn about how to build a server and client using gRPC with Kotlin coroutines.'
-    url: "https://youtu.be/V3BzDyQVeGw?t=256"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
