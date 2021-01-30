@@ -13,8 +13,8 @@ feature_row:
   - image_path: /assets/images/talks/android-worldwide-grpc-with-kotlin-coroutines.jpg
     alt: "gRPC with Kotlin Coroutines on Android"
     title: "gRPC with Kotlin Coroutines on Android"
-    excerpt: '**Android Worldwide - January 2021**<br /><br />Learn aobut how to use gRPC with Kotlin coroutines on Android.'
-    url: "/conferences/android-worldwide-2020-grpc-with-kotlin-coroutines/"
+    excerpt: '**Android Worldwide - January 2021**<br /><br />Learn about how to use gRPC with Kotlin coroutines on Android.'
+    url: "https://www.youtube.com/watch?v=3ARWVHKVBfk"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/kotlin_mumbai-dissecting-coroutines-library.jpeg
