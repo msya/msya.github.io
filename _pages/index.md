@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/micronaut-with-kotlin-coroutines.jpg
+    alt: "Micronaut with Kotlin Coroutines"
+    title: "Micronaut with Kotlin Coroutines"
+    excerpt: '**Kotlin London - February 2021**<br /><br />Learn about how to build microservices with Micronaut.'
+    url: "https://youtu.be/63Zc4DJPr8E?t=3706"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/android-worldwide-grpc-with-kotlin-coroutines.jpg
     alt: "gRPC with Kotlin Coroutines on Android"
     title: "gRPC with Kotlin Coroutines on Android"
