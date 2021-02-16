@@ -39,6 +39,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/micronaut-with-kotlin-coroutines/micronaut-with-kotlin-coroutines.jpeg
+    alt: "Micronaut with Kotlin Coroutines"
+    title: "Micronaut with Kotlin Coroutines"
+    excerpt: "Learn about how to create and test microservices with Kotlin coroutines using the Micronaut framework."
+    url: /micronaut/micronaut-with-kotlin-coroutines/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/coroutines-job-structures/coroutines-job-sructures-image-0.png
     alt: "Coroutines Job Structures"
     title: "Coroutines Job Structures"
