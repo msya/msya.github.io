@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/mobile-apps-week-guinea-building-kotlin-multiplatform-apps.jpg
+    alt: "Building Kotlin Multiplatform Apps"
+    title: "Building Kotlin Multiplatform Apps"
+    excerpt: '**GDG Ratoma - February 2021**<br /><br />Learn about how to build Kotlin multiplatform apps.'
+    url: /conferences/mobile-apps-week-guinea-2020-kotiln-multiplatform/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/micronaut-with-kotlin-coroutines.jpg
     alt: "Micronaut with Kotlin Coroutines"
     title: "Micronaut with Kotlin Coroutines"
