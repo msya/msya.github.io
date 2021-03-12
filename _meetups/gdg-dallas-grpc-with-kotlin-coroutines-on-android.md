@@ -11,4 +11,4 @@ In this talk, I will share with you how to build a gRPC server using the gRPC-Ko
 
 <br/>
 
-<script async class="speakerdeck-embed" data-id="46e01fc77b0d474bb1d5052e7dae7e98" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="6b5a4015397849959085664b3e807612" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
