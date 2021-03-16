@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/micronaut-with-kotlin-coroutines-chicago-kotlin-meetup.png
+    alt: "Micronaut with Kotlin Coroutines"
+    title: "Micronaut with Kotlin Coroutines"
+    excerpt: '**Chicago Kotlin Meetup - March 2021**<br /><br />Learn about how to use Micornaut with Kotlin coroutines.'
+    url: "https://www.meetup.com/Chicago-Kotlin/events/276682493/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/mobile-apps-week-guinea-building-kotlin-multiplatform-apps.jpg
     alt: "Building Kotlin Multiplatform Apps"
     title: "Building Kotlin Multiplatform Apps"
