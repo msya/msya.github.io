@@ -14,7 +14,7 @@ feature_row:
     alt: "Micronaut with Kotlin Coroutines"
     title: "Micronaut with Kotlin Coroutines"
     excerpt: '**Chicago Kotlin Meetup - March 2021**<br /><br />Learn about how to use Micornaut with Kotlin coroutines.'
-    url: "https://www.meetup.com/Chicago-Kotlin/events/276682493/"
+    url: "https://youtu.be/LTwRJKtnscc"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/mobile-apps-week-guinea-building-kotlin-multiplatform-apps.jpg
