@@ -16,6 +16,8 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
+Featured in Kotlin Weekly [#239]("https://mailchi.mp/kotlinweekly/kotlin-weekly-239")
+
 Micronaut is a JVM framework for building microservices. In this article, we'll dive into how Micronaut provides coroutines support.
 
 ## Micronaut
