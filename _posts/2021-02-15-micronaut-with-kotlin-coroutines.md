@@ -1,7 +1,7 @@
 ---
 title: "Micronaut with Kotlin Coroutines"
 excerpt: "Micronaut is a JVM framework for building microservices. In this article, we'll dive into how Micronaut provides coroutines support."
-date: 2020-02-15
+date: 2021-02-15
 header:
    teaser: "/assets/images/micronaut-with-kotlin-coroutines/micronaut-with-kotlin-coroutines.jpeg"	
 categories:

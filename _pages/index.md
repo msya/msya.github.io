@@ -53,6 +53,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/building-kotlin-multiplatform-apps/building-kotlin-multiplatform-apps.jpeg
+    alt: "Building Kotlin Multiplatform apps"
+    title: "Building Kotlin Multiplatform apps"
+    excerpt: "Learn how to build Kotlin Multiplatform apps for iOS and Android with Ktor, Kotlinx Serilization and SQL Delight."
+    url: /kotlin-multiplatform/building-kotlin-multiplatform-apps/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/micronaut-with-kotlin-coroutines/micronaut-with-kotlin-coroutines.jpeg
     alt: "Micronaut with Kotlin Coroutines"
     title: "Micronaut with Kotlin Coroutines"
