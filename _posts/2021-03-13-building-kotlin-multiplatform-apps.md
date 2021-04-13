@@ -3,7 +3,7 @@ title: "Building Kotlin Multiplatform Apps"
 excerpt: "Learn how to build Kotlin Multiplatform apps for iOS and Android."
 date: 2021-03-13
 header:
-   teaser: "/assets/images/building-kotlin-multiplatform-apps.jpeg"
+   teaser: "/assets/images/building-kotlin-multiplatform-apps/building-kotlin-multiplatform-apps.jpeg"
 categories:
   - kotlin-multiplatform
 tags:
