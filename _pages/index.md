@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/android_dev_journey.jpeg
+    alt: "Android Dev Journey"
+    title: "Android Dev Journey"
+    excerpt: 'Shared a short story of my journsey on using Kotlin and shared some tips and lessons.'
+    url: "https://android-developers.googleblog.com/2021/04/androiddevjourney-spotlight-april.html"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/micronaut-with-kotlin-coroutines-chicago-kotlin-meetup.png
     alt: "Micronaut with Kotlin Coroutines"
     title: "Micronaut with Kotlin Coroutines"
