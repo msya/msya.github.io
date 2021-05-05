@@ -16,6 +16,8 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
+Featured in Kotlin Weekly [#247](https://mailchi.mp/kotlinweekly/kotlin-weekly-247)
+
 When I first started to learn Kotlin Multiplatform in 2018, I started by trying to build an app that displays a list of videos and plays them for both Android and iOS. I had given a [presentation]("https://speakerdeck.com/heyitsmohit/building-kotlin-muiltiplatform-apps-for-android-and-ios") from my learnings at the Kotlin NYC meetup. During that time, it was challenging to set up network requests, serialization and video playback. I had to use multiple IDEs (XCode, Android Studio, CLion). But, Kotlin Multiplatform has come along far since 2018. In this article, I’ll explore how to build a Kotlin Multiplatform app in 2021 and compare it with my previous experience. 
 
 ## Why Kotlin Multiplatform?
