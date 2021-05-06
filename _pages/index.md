@@ -10,10 +10,17 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/gdg-tech-sessions-building-kotlin-multiplatform-apps.jpg
+    alt: "Building Kotlin Multiplatform apps"
+    title: "Building Kotlin Multiplatform apps"
+    excerpt: '**GDG Tech Sessions - May 2021**<br /><br />Learn about how to build Kotlin Multiplatform apps.'
+    url: /meetups/gdg-tech-sessions-build-kotlin-multiplatform-apps/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/android_dev_journey.jpeg
     alt: "Android Dev Journey"
     title: "Android Dev Journey"
-    excerpt: 'Shared a short story of my journsey on using Kotlin and shared some tips and lessons.'
+    excerpt: 'Shared a short story of my journey on using Kotlin and shared some tips and lessons.'
     url: "https://android-developers.googleblog.com/2021/04/androiddevjourney-spotlight-april.html"
     btn_label: "Learn More"
     btn_class: "btn--primary"
@@ -43,20 +50,6 @@ feature_row:
     title: "gRPC with Kotlin Coroutines on Android"
     excerpt: '**Android Worldwide - January 2021**<br /><br />Learn about how to use gRPC with Kotlin coroutines on Android.'
     url: "https://www.youtube.com/watch?v=3ARWVHKVBfk"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/kotlin_mumbai-dissecting-coroutines-library.jpeg
-    alt: "Dissecting Coroutines Library"
-    title: "Dissecting Coroutines Library"
-    excerpt: '**Kotlin Mumbai - December 2020**<br /><br />Learn about advanced and lesser known features in the coroutines library.'
-    url: "https://www.youtube.com/watch?v=zhh0NGKAwQU"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/droidcon_americas.jpg
-    alt: "Unit Testing Kotlin Channels & Flows"
-    title: "Unit Testing Kotlin Channels & Flows"
-    excerpt: '**Droidcon Americas - November 2020**<br /><br />Learn about how to write unit tests for channels and flows'
-    url: "https://www.droidcon.com/media-detail?video=481196790"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
