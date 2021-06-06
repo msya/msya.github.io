@@ -1,9 +1,9 @@
 ---
 title: "Learning State & Shared Flows with Unit Tests"
-excerpt: "Learn about the features of State & Shared Flows"
-date: 2021-06-05
+excerpt: "Learn about all of the features of State & Shared Flows."
+date: 2021-06-06
 header:
-   teaser: "/assets/images/learning_state_and_shared_flows_with_tests/learning_state_and_shared_flows_with_tests.jpeg.jpeg"
+   teaser: "/assets/images/learning_state_and_shared_flows_with_tests/learning_state_and_shared_flows_with_tests.jpeg"
 categories:
   - coroutines
 tags:
