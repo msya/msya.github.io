@@ -53,6 +53,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/learning_state_and_shared_flows_with_tests/learning_state_and_shared_flows_with_tests.jpeg
+    alt: "Learning State & Shared Flows with Unit Testing"
+    title: "Learning State & Shared Flows with Unit Testing"
+    excerpt: "Learn how to use state and shared flow with unit tests."
+    url: /coroutines/learning-shared-and-state-flows-with-tests/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/building-kotlin-multiplatform-apps/building-kotlin-multiplatform-apps.jpeg
     alt: "Building Kotlin Multiplatform apps"
     title: "Building Kotlin Multiplatform apps"
@@ -95,13 +102,6 @@ feature_row2:
     url: /grpc/grpc-kotlin-coroutines/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/custom-coroutine-context/dispatch-diagram.jpeg
-    alt: "Custom Kotlin Coroutine Context Uses Cases"
-    title: "Custom Kotlin Coroutine Context Uses Cases"
-    excerpt: "Learn about use cases for creating a custom context element. I'll share use cases for dispatcher provider, thread local data and database transactions."
-    url: /coroutines/custom-coroutine-context-uses-cases/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/writing-kotlin-compiler-plugin-with-arrow-meta/arrow-meta-kotlin-compiler-plugin-2.gif
     alt: "Writing a Kotlin Compiler Plugin with Arrow Meta"
     title: "Writing a Kotlin Compiler Plugin with Arrow Meta"
@@ -114,15 +114,13 @@ feature_row2:
     excerpt: "Learn how to use the combine operator and how it uses select expressions under the hood."
     url: /coroutines/combinging-kotlin-flow-with-select-expressions/
     btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/exploring-spectral-graph-theory/graph-example-3.png
-    alt: "Exploring Spectral Graph Theory"
-    title: "Exploring Spectral Graph Theory"
-    excerpt: "Learn about how we could use Linear Algebra to explore spectral properties of graphs."
-    url: /math/exploring-spectral-graph-theory/
-    btn_label: "Learn More"
     btn_class: "btn--primary" 
 ---
+
+## Recent Posts
+{: .text-left}
+
+{% include feature_row id="feature_row2" %}
 
 ## Recent Talks
 {: .text-left}
@@ -130,8 +128,3 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-## Recent Posts
-{: .text-left}
-
-{% include feature_row id="feature_row2" %}
