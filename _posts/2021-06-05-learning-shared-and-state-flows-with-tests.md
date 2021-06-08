@@ -293,7 +293,7 @@ How do you set a shared flow?
 val sharedFlow = MutableSharedFlow<String>()
 ```
 
-Unlike a state flow, the share flow doesn’t need a default value. The shared flow can be given a replay cout, buffer capacity or buffer overflow capacity. 
+Unlike a state flow, the share flow doesn’t need a default value. The shared flow can be given a replay count, buffer capacity or buffer overflow capacity. 
 
 ### Shared Flow Collection
 
@@ -376,7 +376,7 @@ There are three different strategies you could apply.
 
 ### While Subscribed
 
-Assume we want to convert the following colf flow to a shared flow. 
+Assume we want to convert the following cold flow to a shared flow.
 
 ```kotlin
 val flow = flowOf(
