@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/android_worldwide_kotlin_state_and_shared_flow_in_action.jpg
+    alt: "Kotlin State & Shared Flows in Action"
+    title: "Kotlin State & Shared Flows in Action"
+    excerpt: '**Android Worldwide - July 2021**<br /><br />Learn about how to use Kotlin State & Shared flows.'
+    url: /conferences/android-worldwide-2021-kotlin-state-and-shared-flows-in-action/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/gdg-tech-sessions-building-kotlin-multiplatform-apps.jpg
     alt: "Building Kotlin Multiplatform apps"
     title: "Building Kotlin Multiplatform apps"
@@ -29,20 +36,6 @@ feature_row:
     title: "Micronaut with Kotlin Coroutines"
     excerpt: '**Chicago Kotlin Meetup - March 2021**<br /><br />Learn about how to use Micornaut with Kotlin coroutines.'
     url: "https://youtu.be/LTwRJKtnscc"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/mobile-apps-week-guinea-building-kotlin-multiplatform-apps.jpg
-    alt: "Building Kotlin Multiplatform Apps"
-    title: "Building Kotlin Multiplatform Apps"
-    excerpt: '**GDG Ratoma - February 2021**<br /><br />Learn about how to build Kotlin multiplatform apps.'
-    url: /conferences/mobile-apps-week-guinea-2020-kotiln-multiplatform/
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/micronaut-with-kotlin-coroutines.jpg
-    alt: "Micronaut with Kotlin Coroutines"
-    title: "Micronaut with Kotlin Coroutines"
-    excerpt: '**Kotlin London - February 2021**<br /><br />Learn about how to build microservices with Micronaut.'
-    url: "https://youtu.be/63Zc4DJPr8E?t=3706"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/android-worldwide-grpc-with-kotlin-coroutines.jpg
