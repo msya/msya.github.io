@@ -14,4 +14,6 @@ author_profile: true
 
 </br>
 
+{% include video id="SA0Ti3_GlyQ" provider="youtube" %}
+
 <script async class="speakerdeck-embed" data-id="f4c8ec9d37504089866df501b6593be8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
