@@ -6,11 +6,11 @@ classes: wide
 author_profile: true
 ---
 
-- State Flow</br>
-- Shared Flow</br>
-- Broadcast Channel vs Shared Flow</br>
-- Shared Flow Sharing Strategies</br>
-- Buffer Overflow Strategies</br>
+- State Flow
+- Shared Flow
+- Broadcast Channel vs Shared Flow
+- Shared Flow Sharing Strategies
+- Buffer Overflow Strategies
 
 </br>
 
