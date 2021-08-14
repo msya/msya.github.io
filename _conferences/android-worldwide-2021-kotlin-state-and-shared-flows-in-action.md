@@ -12,7 +12,6 @@ author_profile: true
 - Shared Flow Sharing Strategies
 - Buffer Overflow Strategies
 
-</br>
 
 {% include video id="SA0Ti3_GlyQ" provider="youtube" %}
 
