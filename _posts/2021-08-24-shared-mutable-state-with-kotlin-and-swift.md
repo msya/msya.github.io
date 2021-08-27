@@ -3,7 +3,7 @@ title: "Shared Mutable State with Kotlin & Swift"
 excerpt: "Learn about how to handle shared mutable state in Kotlin and Swift."
 date: 2021-08-24
 header:
-   teaser: "/assets/images/shared_mutable_state_with_kotlin_and_swift/shared_mutable_state_image.jpeg"
+   teaser: "/assets/images/shared_mutable_state_with_kotlin_and_swift/shared_mutable_state_with_kotlin_and_swift.jpeg"
 categories:
   - coroutines
 tags:
