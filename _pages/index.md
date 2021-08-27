@@ -46,6 +46,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/shared_mutable_state_with_kotlin_and_swift/shared_mutable_state_with_kotlin_and_swift.jpeg
+    alt: "Shared Mutable State with Kotlin and Swift"
+    title: "Shared Mutable State with Kotlin and Swift"
+    excerpt: "Learn about actors and mutex in Kotlin and the new concurrency features in Swift 5.5."
+    url: /coroutines/shared-mutable-state-with-kotlin-and-swift/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/learning_state_and_shared_flows_with_tests/learning_state_and_shared_flows_with_tests.jpeg
     alt: "Learning State & Shared Flows with Unit Testing"
     title: "Learning State & Shared Flows with Unit Testing"
