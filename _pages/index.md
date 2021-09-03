@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/droidcon_nigeria.jpg
+    alt: "Migrating Kotlin State & Shared Flows"
+    title: "Migrating Kotlin State & Shared Flows"
+    excerpt: '**Droidcon Nigeria - August 2021**<br /><br />Learn about how to use Kotlin State & Shared flows.'
+    url: /conferences/droidcon-nigeria-2021-migrating-kotlin-state-and-shared-flows/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/android_worldwide_kotlin_state_and_shared_flow_in_action.jpg
     alt: "Kotlin State & Shared Flows in Action"
     title: "Kotlin State & Shared Flows in Action"
