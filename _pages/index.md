@@ -131,14 +131,14 @@ feature_row2:
     btn_class: "btn--primary" 
 ---
 
-## Recent Posts
-{: .text-left}
-
-{% include feature_row id="feature_row2" %}
-
 ## Recent Talks
 {: .text-left}
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+## Recent Posts
+{: .text-left}
+
+{% include feature_row id="feature_row2" %}
