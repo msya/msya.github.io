@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/podcasts/talking-kotlin-103.jpg
+    alt: "Talking Kotlin 103"
+    title: "Talking Kotlin: Teaching Coroutines"
+    excerpt: '**Talking Kotlin: Teaching Coroutines - September 2021**<br /><br />Experience in teaching Kotlin.'
+    url: "https://www.youtube.com/watch?v=VlQoEi5q26U"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/droidcon_nigeria.jpg
     alt: "Migrating Kotlin State & Shared Flows"
     title: "Migrating Kotlin State & Shared Flows"
