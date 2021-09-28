@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/chicago-roboto-2021.jpg
+    alt: "Unit Testing Kotlin Flows"
+    title: "Unit Testing Kotlin Flows"
+    excerpt: '**Unit Testing Kotlin Flows - September 2021**<br /><br />How to unit test state and shared flows'
+    url: "/conferences/chicago-roboto-2021-unit-testing-kotlin-flows"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/podcasts/talking-kotlin-103.jpg
     alt: "Talking Kotlin 103"
     title: "Talking Kotlin: Teaching Coroutines"
