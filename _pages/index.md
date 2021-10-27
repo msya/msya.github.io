@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/android-worldwide-compose_vs_swiftui.jpg
+    alt: "Jetpack Compose vs SwiftUI"
+    title: "Jetpack Compose vs SwiftUI"
+    excerpt: '**Jetpack Compose vs SwiftUI - October 2021**<br /><br />Learn about the similarities and differences between Jetpck Compose and SwiftUI.'
+    url: "/conferences/android-worldwide-2021-jetpack_compose_vs_swiftui"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/chicago-roboto-2021.jpg
     alt: "Unit Testing Kotlin Flows"
     title: "Unit Testing Kotlin Flows"
