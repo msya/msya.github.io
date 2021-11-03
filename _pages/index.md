@@ -74,6 +74,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/jetpack_compose_vs_swiftui/jetpack_compose_vs_swiftui.png
+    alt: "Jetpack Compose vs SwiftUI"
+    title: "Jetpack Compose vs SwiftUI"
+    excerpt: "Learn about similarities and differences of Jetpack Compose and SwiftUI."
+    url: /mobile/jetpack_compose_vs_swiftui/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/shared_mutable_state_with_kotlin_and_swift/shared_mutable_state_with_kotlin_and_swift.jpeg
     alt: "Shared Mutable State with Kotlin and Swift"
     title: "Shared Mutable State with Kotlin and Swift"
@@ -142,7 +149,7 @@ feature_row2:
     excerpt: "Learn how to use the combine operator and how it uses select expressions under the hood."
     url: /coroutines/combinging-kotlin-flow-with-select-expressions/
     btn_label: "Read More"
-    btn_class: "btn--primary" 
+    btn_class: "btn--primary"
 ---
 
 ## Recent Talks
