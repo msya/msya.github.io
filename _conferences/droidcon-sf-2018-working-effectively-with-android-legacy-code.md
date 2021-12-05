@@ -17,9 +17,12 @@ Android isn’t new anymore. Most applications are not greenfield projects. Many
 
 In the spirit of Michael Feathers' classic book, this talk explores ways we can navigate, maintain, improve and evolve Android legacy code. We will cover topics like architecture, refactoring, testing, and dependency breaking techniques using examples from the speakers’ combined 16+ years of experience working on Android. 
 
+**Video**
+
 {% include video id="xsoQpcvGZgI" provider="youtube" %}
 
 <br/>
-<br/>
+
+**Slides**
 
 <script async class="speakerdeck-embed" data-id="a4dde7b6652647659c508c93db7a2e7a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

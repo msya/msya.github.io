@@ -10,4 +10,6 @@ Functional programming is in fashion today even though it has been around since 
 
 <br/>
 
+**Slides**
+
 <script async class="speakerdeck-embed" data-id="b010b0c6041c4912af8703167f0212b8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

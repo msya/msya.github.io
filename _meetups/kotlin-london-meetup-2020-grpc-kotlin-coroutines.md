@@ -12,8 +12,12 @@ In this talk, I will share with you how to build a gRPC server using the gRPC-Ko
 
 In addition to gRPC Kotlin, other libraries for creating and consuming gRPC services are Wire by Square and Kroto-plus. We’ll compare its features and its coroutines API with gRPC-Kotlin. By the end of this talk, you will have a better understanding on how to build and consume gRPC services with Kotlin coroutines.
 
+**Video**
+
 {% include video id="V3BzDyQVeGw" provider="youtube" %}
 
 <br/>
+
+**Slides**
 
 <script async class="speakerdeck-embed" data-id="6b5a4015397849959085664b3e807612" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

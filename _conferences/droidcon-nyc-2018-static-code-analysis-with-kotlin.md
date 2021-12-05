@@ -10,10 +10,13 @@ Detekt is a static code analysis tool for Kotlin. It can analyze your Kotlin pro
 
 Under the hood, the library performs checks against these rules by analyzing the abstract syntax tree provided by the Kotlin Compiler. In this talk, we will learn about how to setup Detekt and how to create custom rules. We will also take a deep dive into how the library enforces these rules by using the abstract syntax tree.
 
+**Video**
+
 {% include video id="LT6m5_LO2DQ" provider="youtube" %}
 
 <br/>
-<br/>
+
+**Slides**
 
 <script async class="speakerdeck-embed" data-id="6597d5e29f8046fbb5188826c6ded656" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 

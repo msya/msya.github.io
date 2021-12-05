@@ -1,18 +1,10 @@
 ---
-title: "Android Worldwide - Jetpack Compse vs SwiftUI"
-excerpt: "October 26, 2021 - Learn about the similarities and differences between Jetpck Compose and SwiftUI."
+title: "DevFest Conakry - Jetpack Compose vs SwiftUI"
+excerpt: "December 3, 2021 - Learn about the similarities and differences between Jetpck Compose and SwiftUI."
 layout: single
 classes: wide
 author_profile: true
 ---
-
-Learn about the similarities and differences between Jetpck Compose and SwiftUI.
-
-
-**Video**
-
-{% include video id="Pf6_aWsBR7g" provider="youtube" %}
-
 
 <br/>
 

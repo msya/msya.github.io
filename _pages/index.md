@@ -14,14 +14,14 @@ feature_row:
     alt: "Jetpack Compose vs SwiftUI"
     title: "Jetpack Compose vs SwiftUI"
     excerpt: '**Jetpack Compose vs SwiftUI - October 2021**<br /><br />Learn about the similarities and differences between Jetpck Compose and SwiftUI.'
-    url: "/conferences/android-worldwide-2021-jetpack_compose_vs_swiftui"
+    url: "https://youtu.be/Pf6_aWsBR7g"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/chicago-roboto-2021.jpg
     alt: "Unit Testing Kotlin Flows"
     title: "Unit Testing Kotlin Flows"
     excerpt: '**Unit Testing Kotlin Flows - September 2021**<br /><br />How to unit test state and shared flows'
-    url: "/conferences/chicago-roboto-2021-unit-testing-kotlin-flows"
+    url: "https://vimeo.com/625613327"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/podcasts/talking-kotlin-103.jpg

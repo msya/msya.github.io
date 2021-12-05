@@ -10,6 +10,6 @@ In this talk, I presented on how to build microservices with Micronaut.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LTwRJKtnscc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
+**Slides**
 
 <script async class="speakerdeck-embed" data-id="8a27f8a62ef047ebac984427a495a079" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

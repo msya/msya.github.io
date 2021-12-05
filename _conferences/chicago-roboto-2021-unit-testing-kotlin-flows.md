@@ -8,4 +8,12 @@ author_profile: true
 
 <br/>
 
+**Video**
+
+{% include video id="625613327" provider="vimeo" %}
+
+<br/>
+
+**Slides**
+
 <script async class="speakerdeck-embed" data-id="18b880d09b35423187caba79f0b1bcea" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
