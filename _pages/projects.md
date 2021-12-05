@@ -9,13 +9,13 @@ classes: wide
 <br/>
 You can see most of my OSS projects on [GitHub](https://github.com/msya), but here are a few that I’ve created.
 
-## Images Compose App SwiftUI
-
-An app to show how to use tasks, async and await and SwiftUI. [Check it out!](https://github.com/msya/ImagesSwiftUIApp)
-
 ## Images Compose App Jetpack Compose
 
 An app to demonstrate arhitecture and navigation with Jetpack Compose. [Check it out](https://github.com/msya/ImagesComposeApp)
+
+## Images Compose App SwiftUI
+
+An app to show how to use tasks, async and await and SwiftUI. [Check it out!](https://github.com/msya/ImagesSwiftUIApp)
 
 ## Debug Log Arrow Meta 
 
