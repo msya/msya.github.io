@@ -57,6 +57,9 @@ collections:
     permalink: /:collection/:path/
   meetups:
     output: true
+    permalink: /:collection/:path/
+  podcasts:
+    output: true
     permalink: /:collection/:path/      
 
 defaults:
