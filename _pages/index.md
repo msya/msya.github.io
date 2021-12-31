@@ -81,6 +81,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/building-android-platform-teams/building-android-platform-teams.png
+    alt: "Building Android Platform Teams"
+    title: "Building Android Platform Teams"
+    excerpt: "Learn about the purpose of an Android platform team and how to build a platform team."
+    url: /android/building-android-platform-teams/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/jetpack_compose_vs_swiftui/jetpack_compose_vs_swiftui.png
     alt: "Jetpack Compose vs SwiftUI"
     title: "Jetpack Compose vs SwiftUI"
