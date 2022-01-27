@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/improving_gradle_builds/improving_gradle_builds.jpg
+    alt: "Improving Gradle Builds"
+    title: "Improving Gradle Builds"
+    excerpt: '**Improving Gradle Builds- January 2022**<br />Learn about how to analyze, measure and benchmark your Gradle builds. I will share how to use Gradle enterprise and various others to help improve builds.<br />'
+    url: "/conferences/android-worldwide-2022-improving-gradle-builds/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/between-the-brackets-2021.jpg
     alt: "Between the brackets - Modern Android Development"
     title: "Between the brackets - Modern Android Development"
