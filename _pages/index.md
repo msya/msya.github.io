@@ -88,6 +88,13 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
+  - image_path: /assets/images/jetpack-compose-molecule-library/jetpack-compose-molecule.png
+    alt: "Using Jetpack Compose with Square's Molecule Library"
+    title: "Using Jetpack Compose with Square's Molecule Library"
+    excerpt: "Lean how to use patterns introduced by Square’s Molecule library. I’ll share how I used it in a Kotlin multiplatform project."
+    url: /mobile/jetpack-compose-square-molecule-library/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/building-android-platform-teams/building-android-platform-teams.png
     alt: "Building Android Platform Teams"
     title: "Building Android Platform Teams"
