@@ -15,6 +15,10 @@ As the number of modules in your code base increases, speed and consistency of y
 
 I’ll take a deep dive into these questions with examples and insights from my experiences.
 
+**Video**
+
+{% include video id="O2sPRJ3a4Bc" provider="youtube" %}
+
 **Slides**
 
 <script async class="speakerdeck-embed" data-id="fd1f16e3cc63420ea640412cad8a5815" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
