@@ -10,60 +10,32 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/using_jetpack_compose_with_molecule.jpg
+    alt: "Using Jetpack Compose with Square's Molecule Library"
+    title: "Using Jetpack Compose with Square's Molecule Library"
+    excerpt: 'Learn about how to create StateFlows with Compose.<br />'
+    url: "https://youtu.be/rUpZSZedoHI"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/improving_gradle_builds/improving_gradle_builds.jpg
     alt: "Improving Gradle Builds"
     title: "Improving Gradle Builds"
-    excerpt: '**Improving Gradle Builds- January 2022**<br />Learn about how to analyze, measure and benchmark your Gradle builds. I will share how to use Gradle enterprise and various others to help improve builds.<br />'
+    excerpt: 'Learn about how to analyze, measure and benchmark your Gradle builds. Explore how to use Gradle enterprise and various other tools to help improve builds.<br />'
     url: "https://youtu.be/O2sPRJ3a4Bc"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/between-the-brackets-2021.jpg
-    alt: "Between the brackets - Modern Android Development"
-    title: "Between the brackets - Modern Android Development"
-    excerpt: '**Between the brackets - Modern Android Development - December 2021**<br />In this episode GDE Mohit Sarveiya, GDE Madona Syomba and GDG Jay Whitsitt discussing Modern Android Development features and how you can utilize them better.<br />'
-    url: "https://youtu.be/GZMFJyeP5Nw"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/android-worldwide-compose_vs_swiftui.jpg
     alt: "Jetpack Compose vs SwiftUI"
     title: "Jetpack Compose vs SwiftUI"
-    excerpt: '**Jetpack Compose vs SwiftUI - October 2021**<br /><br />Learn about the similarities and differences between Jetpack Compose and SwiftUI. We will explore how to use side effects, Swifit 5.5 features such as actors.'
+    excerpt: 'Learn about the similarities and differences between Jetpack Compose and SwiftUI. Explore Swifit 5.5 features such as actors.'
     url: "https://youtu.be/Pf6_aWsBR7g"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/chicago-roboto-2021.jpg
-    alt: "Unit Testing Kotlin Flows"
-    title: "Unit Testing Kotlin Flows"
-    excerpt: '**Unit Testing Kotlin Flows - September 2021**<br /><br />How to unit test state and shared flows. We will look at how to setup a unit test.'
-    url: "https://vimeo.com/625613327"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/podcasts/talking-kotlin-103.jpg
-    alt: "Talking Kotlin 103"
-    title: "Talking Kotlin: Teaching Coroutines"
-    excerpt: '**Talking Kotlin: Teaching Coroutines - September 2021**<br /><br />Experience in teaching Kotlin.'
-    url: "https://www.youtube.com/watch?v=VlQoEi5q26U"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/droidcon_nigeria.jpg
-    alt: "Migrating Kotlin State & Shared Flows"
-    title: "Migrating Kotlin State & Shared Flows"
-    excerpt: '**Droidcon Nigeria - August 2021**<br /><br />Learn about how to use Kotlin State & Shared flows.'
-    url: /conferences/droidcon-nigeria-2021-migrating-kotlin-state-and-shared-flows/
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/android_worldwide_kotlin_state_and_shared_flow_in_action.jpg
     alt: "Kotlin State & Shared Flows in Action"
     title: "Kotlin State & Shared Flows in Action"
-    excerpt: '**Android Worldwide - July 2021**<br /><br />Learn about how to use Kotlin State & Shared flows.'
+    excerpt: 'Learn about how to use Kotlin State & Shared flows.'
     url: /conferences/android-worldwide-2021-kotlin-state-and-shared-flows-in-action/
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/gdg-tech-sessions-building-kotlin-multiplatform-apps.jpg
-    alt: "Building Kotlin Multiplatform apps"
-    title: "Building Kotlin Multiplatform apps"
-    excerpt: '**GDG Tech Sessions - May 2021**<br /><br />Learn about how to build Kotlin Multiplatform apps.'
-    url: /meetups/gdg-tech-sessions-build-kotlin-multiplatform-apps/
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/android_dev_journey.jpeg
@@ -71,20 +43,6 @@ feature_row:
     title: "Android Dev Journey"
     excerpt: 'Shared a short story of my journey on using Kotlin and shared some tips and lessons.'
     url: "https://android-developers.googleblog.com/2021/04/androiddevjourney-spotlight-april.html"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/micronaut-with-kotlin-coroutines-chicago-kotlin-meetup.png
-    alt: "Micronaut with Kotlin Coroutines"
-    title: "Micronaut with Kotlin Coroutines"
-    excerpt: '**Chicago Kotlin Meetup - March 2021**<br /><br />Learn about how to use Micornaut with Kotlin coroutines.'
-    url: "https://youtu.be/LTwRJKtnscc"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/android-worldwide-grpc-with-kotlin-coroutines.jpg
-    alt: "gRPC with Kotlin Coroutines on Android"
-    title: "gRPC with Kotlin Coroutines on Android"
-    excerpt: '**Android Worldwide - January 2021**<br /><br />Learn about how to use gRPC with Kotlin coroutines on Android.'
-    url: "https://www.youtube.com/watch?v=3ARWVHKVBfk"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
@@ -151,13 +109,6 @@ feature_row2:
     url: /coroutines/graphql/apollo-graphql-flow-bindings/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/multiplatform-testing-inside-coroutine-lib/test-base-diagram.png
-    alt: "Multiplatform Test Pattern inside Coroutines Lib"
-    title: "Multiplatform Test Pattern inside Coroutines Lib"
-    excerpt: "Learn about how unit testing is setup and performed inside the Kotlin coroutines library."
-    url: /coroutines/kotlin-coroutine-lib-testing/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/grpc-kotlin-coroutines/grpc-kotlin-coroutines-1.png
     alt: "gRPC with Kotlin Coroutines"
     title: "gRPC with Kotlin Coroutines"
@@ -170,12 +121,6 @@ feature_row2:
     title: "Writing a Kotlin Compiler Plugin with Arrow Meta"
     excerpt: "Learn how to write & test a compiler plugin with Arrow Meta. I will share with you how to build an example plugin."
     url: /arrow-meta/writing-compiler-plugin-with-arrow-meta/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/flow-combine/flow-combine-7.png
-    title: "Combining Flows with Select Expressions"
-    excerpt: "Learn how to use the combine operator and how it uses select expressions under the hood."
-    url: /coroutines/combinging-kotlin-flow-with-select-expressions/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
