@@ -1,7 +1,6 @@
 ---
 title: "GDG Dallas - gRPC with Kotlin Coroutines on Android"
-excerpt: "March 11, 2021 - - gRPC Kotlin Coroutines"
-excerpt: "August 05, 2020 - In this talk, I will share with you how to build a gRPC server using the gRPC-Kotlin library. We’ll explore how to use protocol buffers to define different types of rpc calls that are unary and bidirectional."
+excerpt: "March 11, 2021 - In this talk, I will share with you how to build a gRPC server using the gRPC-Kotlin library. We’ll explore how to use protocol buffers to define different types of rpc calls that are unary and bidirectional."
 layout: single
 classes: wide
 author_profile: true
