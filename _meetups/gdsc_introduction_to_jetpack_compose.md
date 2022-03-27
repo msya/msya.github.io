@@ -8,11 +8,11 @@ author_profile: true
 
 I'll go over the basics of how to build Android apps using Jetpack Compose. I'll share how to build different types of layouts and setup your app's architecture. We'll look at basic examples of using different features provided by the Jetpack Compose library.
 
-<br/>
-
 **Video**
 
 {% include video id="IULHeVzBwRE" provider="youtube" %}
+
+<br/>
 
 **Slides**
 
