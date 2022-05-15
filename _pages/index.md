@@ -11,6 +11,13 @@ excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
   - image_path: /assets/images/talks/using_jetpack_compose_with_molecule.jpg
+    alt: "Strategies for Migrating to Jetpack Compose"
+    title: "Strategies for Migrating to Jetpack Compose"
+    excerpt: 'Learn about how to plan and migrate to Jetpack Compose.<br />'
+    url: "https://youtu.be/cBEV4TnABT4"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/talks/using_jetpack_compose_with_molecule.jpg
     alt: "Using Jetpack Compose with Square's Molecule Library"
     title: "Using Jetpack Compose with Square's Molecule Library"
     excerpt: 'Learn about how to create StateFlows with Compose.<br />'
