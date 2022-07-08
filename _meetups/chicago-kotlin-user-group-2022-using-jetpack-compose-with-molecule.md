@@ -1,5 +1,5 @@
 ---
-title: "Chicago Kotlin User Group - Using Jetpack Compose with Square's Molecule Library"
+title: "Chicago Kotlin User Group - Using Cash App's Molecule Library"
 excerpt: "February 16, 2022 - Learn about how to build StateFlows with Compose."
 layout: single
 classes: wide

@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/droidcon_sf_2022.jpg
+    alt: "Migrating to Kotlin State & Shared Flows "
+    title: "Migrating to Kotlin State & Shared Flows "
+    excerpt: 'We’ll dive deep into the Shared & State Flow APIs.<br />'
+    url: "https://www.droidcon.com/2022/06/28/migrating-to-kotlin-state-shared-flows/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/strategies-migrating-jetpack-compose.jpg
     alt: "Strategies for Migrating to Jetpack Compose"
     title: "Strategies for Migrating to Jetpack Compose"
@@ -18,8 +25,8 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/using_jetpack_compose_with_molecule.jpg
-    alt: "Using Jetpack Compose with Square's Molecule Library"
-    title: "Using Jetpack Compose with Square's Molecule Library"
+    alt: "Using Cash App's Molecule Library"
+    title: "Using Cash App's Molecule Library"
     excerpt: 'Learn about how to create StateFlows with Compose.<br />'
     url: "https://youtu.be/rUpZSZedoHI"
     btn_label: "Learn More"
@@ -54,8 +61,8 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/jetpack-compose-molecule-library/jetpack-compose-molecule.png
-    alt: "Using Jetpack Compose with Square's Molecule Library"
-    title: "Using Jetpack Compose with Square's Molecule Library"
+    alt: "Using Cash App's Molecule Library"
+    title: "Using Cash App's Molecule Library"
     excerpt: "Lean how to use patterns introduced by Square’s Molecule library. I’ll share how I used it in a Kotlin multiplatform project."
     url: /mobile/jetpack-compose-square-molecule-library/
     btn_label: "Read More"
