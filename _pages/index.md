@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/droidcon_nyc_2022.jpg
+    alt: "Building State Flows with Jetpack Compose"
+    title: "Building State Flows with Jetpack Compose"
+    excerpt: 'Learn about how to use the Molecule library.<br />'
+    url: /conferences/droidcon-nyc-2022-building-state-flows-with-compose/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/droidcon_sf_2022.jpg
     alt: "Migrating to Kotlin State & Shared Flows "
     title: "Migrating to Kotlin State & Shared Flows "
@@ -17,18 +24,11 @@ feature_row:
     url: "https://www.droidcon.com/2022/06/28/migrating-to-kotlin-state-shared-flows/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/talks/strategies-migrating-jetpack-compose.jpg
-    alt: "Strategies for Migrating to Jetpack Compose"
-    title: "Strategies for Migrating to Jetpack Compose"
-    excerpt: 'Learn about how to plan and migrate to Jetpack Compose.<br />'
-    url: "https://youtu.be/cBEV4TnABT4"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/using_jetpack_compose_with_molecule.jpg
-    alt: "Using Cash App's Molecule Library"
-    title: "Using Cash App's Molecule Library"
-    excerpt: 'Learn about how to create StateFlows with Compose.<br />'
-    url: "https://youtu.be/rUpZSZedoHI"
+  - image_path: /assets/images/talks/android_worldwide_kotlin_state_and_shared_flow_in_action.jpg
+    alt: "Kotlin State & Shared Flows in Action"
+    title: "Kotlin State & Shared Flows in Action"
+    excerpt: 'Learn about how to use Kotlin State & Shared flows.'
+    url: /conferences/android-worldwide-2021-kotlin-state-and-shared-flows-in-action/
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/improving_gradle_builds.jpg
@@ -43,13 +43,6 @@ feature_row:
     title: "Jetpack Compose vs SwiftUI"
     excerpt: 'Learn about the similarities and differences between Jetpack Compose and SwiftUI. Explore Swifit 5.5 features such as actors.'
     url: "https://youtu.be/Pf6_aWsBR7g"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/talks/android_worldwide_kotlin_state_and_shared_flow_in_action.jpg
-    alt: "Kotlin State & Shared Flows in Action"
-    title: "Kotlin State & Shared Flows in Action"
-    excerpt: 'Learn about how to use Kotlin State & Shared flows.'
-    url: /conferences/android-worldwide-2021-kotlin-state-and-shared-flows-in-action/
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/talks/android_dev_journey.jpeg
