@@ -10,6 +10,13 @@ header:
 excerpt: "Kotlin Advocate & Android Developer"
 intro:
 feature_row:
+  - image_path: /assets/images/talks/android_worldwide_building_multiplatform_apps_with_compose.jpg
+    alt: "Building Multiplatform Apps with Compose"
+    title: "Building Multiplatform Apps with Compose"
+    excerpt: 'Learn about how to use share a UI built in Compose for multiple platforms.<br />'
+    url: /conferences/android-worldwide-2023-building-multiplatform-apps-with-compose/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/talks/droidcon_nyc_2022.jpg
     alt: "Building State Flows with Jetpack Compose"
     title: "Building State Flows with Jetpack Compose"
